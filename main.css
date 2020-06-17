@@ -142,6 +142,10 @@ img.profile-pic {
 	background-color: white;
 }
 
+.bg-color-gold {
+	background-color: fbb03b;
+}
+
 .text-name {
     font-family: 'Lato', sans-serif;
     font-weight: 400;
@@ -168,7 +172,7 @@ img.profile-pic {
 }
 
 .button {
-	background-color: #219653;
+	background-color: #3bc49d;
 	height: 48px;
 	padding-left: 24px
 	padding-right: 24px;
