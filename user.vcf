@@ -7,6 +7,6 @@ ORG:PoleStar Designs;
 TITLE:Founder
 EMAIL;type=INTERNET;type=WORK;type=pref:matt@polestardesigns.com
 TEL;type=WORK;type=VOICE:+44 7506 756 421
-item1.URL;type=pref:tech.gov.sg
+item1.URL;type=pref:polestardesigns.com
 item1.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
